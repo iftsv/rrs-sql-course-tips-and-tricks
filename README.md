@@ -9,3 +9,4 @@
 * [SQL-A] 4. (09/09) DDL, DQL, DML - Review Session Guide [EN](./docs/qa_automation_2026_fall/eng/sql-a-4-ddl-dql-dml-review-guide-eng) / [RU](./docs/qa_automation_2026_fall/rus/sql-a-4-ddl-dql-dml-review-guide-rus)
 * [SQL-A] 5. (09/23) Table Joins - Review Session Guide [EN](./docs/qa_automation_2026_fall/eng/sql-a-5-table-joins-review-guide-eng) / [RU](./docs/qa_automation_2026_fall/rus/sql-a-5-table-joins-review-guide-rus)
 * [SQL-A] 6. (09/30) Group By, Union, Sub Queries - Review Session Guide [EN](./docs/qa_automation_2026_fall/eng/sql-a-6-group-by-subqueries-eng) / [RU](./docs/qa_automation_2026_fall/rus/sql-a-6-group-by-subqueries-rus)
+* [SQL-A] 7. (10/07) Date, String, Numeric Functions & ETL - Review Session Guide [EN](./docs/qa_automation_2026_fall/eng/sql-a-7-date-string-numeric-functions-ETL-eng) / [RU](./docs/qa_automation_2026_fall/rus/sql-a-7-date-string-numeric-functions-ETL-rus)
